@@ -137,23 +137,24 @@ else:      #If image is taken by right camera
 In the below, there are outputs of image augmentation methods.
 
 
-**++Original Image:++**   
+__**Original Image**__   
 
  ![alt text][image3]  
  
-**++Sharped Image:++**
+**__Sharped Image__**
 
  ![alt text][image4]
 
-**++Flipped İmage++**
+**__Flipped İmage__**
 
  ![alt text][image5]
  
-**++Bright İmage++**
+**__Bright İmage__**
 
  ![alt text][image6]
  
-**++Translation İmage++**
+**__Translation İmage__**
+
 
  ![alt text][image7]
 
